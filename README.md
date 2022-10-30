@@ -12,10 +12,10 @@ The Employee Badges Rendering App is a C# application that runs on the terminal.
 ## Usage
 
 Manual input:
-![](./data/previews/preview-manual.jpg)
+![](./data/previews/preview-manual.png)
 
 API/Auto input:
-![](./data/previews/preview-auto.jpg)
+![](./data/previews/preview-auto.png)
 
 Badge Example:
 ![](./data/231720182_badge.png)
