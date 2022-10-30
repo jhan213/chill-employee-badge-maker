@@ -34,7 +34,18 @@ namespace CatWorx.BadgeMaker
 
         async static Task Main(string[] args)
         {
-            List<Employee> employees = GetEmployees();
+            Console.Write("Would you like to enter your own employees? (y/n):");
+            string answer = Console.ReadLine() ?? "";
+            answer.ToLower();
+            List<Employee> employees = new List<Employee>();
+            if (answer.Equals("yes") || answer.Equals("y"))
+            {
+                employees = GetEmployees();
+            }
+            else
+            {
+                employees = await PeopleFetcher.GetFromApi();
+            }
             Util.PrintEmployees(employees);
             Util.MakeCSV(employees);
             await Util.MakeBadges(employees);

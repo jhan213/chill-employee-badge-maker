@@ -19,3 +19,4 @@
 /Users/jae/Desktop/c#/CatWorx.BadgeMaker/obj/Debug/net6.0/CatWorx.BadgeMaker.pdb
 /Users/jae/Desktop/c#/CatWorx.BadgeMaker/obj/Debug/net6.0/CatWorx.BadgeMaker.genruntimeconfig.cache
 /Users/jae/Desktop/c#/CatWorx.BadgeMaker/obj/Debug/net6.0/ref/CatWorx.BadgeMaker.dll
+/Users/jae/Desktop/c#/CatWorx.BadgeMaker/bin/Debug/net6.0/Newtonsoft.Json.dll
