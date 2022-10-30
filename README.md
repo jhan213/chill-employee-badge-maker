@@ -18,7 +18,7 @@ API/Auto input:
 ![](./data/previews/preview-auto.png)
 
 Badge Example:
-![](./data/231720182_badge.png)
+![](./data/231720182_badge.png | width=100)
 
 ## Credits
 
