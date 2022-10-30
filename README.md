@@ -27,4 +27,4 @@ UCLA Extension Full-Stack Coding Bootcamp
 ## Features
 One can generate employee badges from the terminal with this application. 
 
-In order to run the application, the project directory must be downloaded. After download, from the root directory, run `dotnet run` to start the application.
+In order to run the application, the project directory must be downloaded. After download, navigate to the project's root directory in the terminal and run `dotnet run` to start the application.
